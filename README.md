@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I "hate" artificial intelligence because it made me stop programming, but thanks to it I can do things that before would have taken me too much time and work 😄.
+
 Personal/Portfolio Site: https://p4v3r.github.io/
 
 <!--
