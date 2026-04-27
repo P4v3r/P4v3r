@@ -4,15 +4,31 @@ I "hate" artificial intelligence because it made me stop programming, but thanks
 
 Personal/Portfolio Site: https://p4v3r.github.io/
 
-## VOID Projects
+## 👽 VOID Projects
+Privacy-focused projects
 
-### Webapp
-- [VOID-sh](https://github.com/P4v3r/void-sh)
-- [VOID-ai](https://github.com/P4v3r/void-ai)
-- [VOID-key](https://github.com/P4v3r/void-key)
+### 🌐 Webapp
+|[VOID-SH](https://github.com/P4v3r/void-sh)|[VOID-AI](https://github.com/P4v3r/void-ai)|[VOID-KEY](https://github.com/P4v3r/void-key)
+|----------|----------|----------|
+|Secure In-Browser File Encryption|Privacy-first self-hosted AI chat application|Client-side PGP identity manager and secure message encryption tool|
 
-### Telegram Bot
-- [VOID-sms](https://github.com/P4v3r/void-sms)
+### 🤖 Telegram Bot
+|[VOID-SMS](https://github.com/P4v3r/void-sms)|
+|----------|
+|Privacy-focused temporary Italian number service for SMS verification via Telegram|
+
+### 🔭 Currently working on...
+|VOID-MESSAGE|
+|----------|
+|Privacy-focused messaging app|
+
+## 📁 Side Projects
+
+### 🔭 Currently working on...
+|Studio-Client Portal|AI Secretary|
+|----------|----------|
+|Online platform, with AI functionality, for firms and clients to exchange documents securely|Automatic AI secretary for restaurateurs and hoteliers in multiple languages|
+
 
 <!--
 **P4v3r/P4v3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
