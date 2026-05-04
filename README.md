@@ -15,7 +15,7 @@ Privacy-focused projects
 ### 🤖 Telegram Bot
 |[VOID-SMS](https://github.com/P4v3r/void-sms)|
 |----------|
-|Privacy-focused Italian temporary phone numbers for SMS verification via Telegram. No personal data required|
+|Temporary US phone numbers for SMS verification via Telegram. Privacy-focused|
 
 ### 🔭 Currently working on...
 |VOID-MESSAGE|
