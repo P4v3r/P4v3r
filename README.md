@@ -29,6 +29,13 @@ Privacy-focused projects
 |----------|----------|
 |Online platform, with AI functionality, for firms and clients to exchange documents securely|Automatic AI secretary for restaurateurs and hoteliers in multiple languages|
 
+## 💻 Personal Projects
+
+### 🔭 Currently working on...
+|[Excel Quote Generator](https://github.com/P4v3r/Generatore-Preventivi-Excel)|
+|----------|
+|Excel quote generator for my job|
+
 
 <!--
 **P4v3r/P4v3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
