@@ -34,7 +34,7 @@ Privacy-focused projects
 ### 🔭 Currently working on...
 |[Excel Quote Generator](https://github.com/P4v3r/Generatore-Preventivi-Excel)|
 |----------|
-|Excel quote generator for my job|
+|Excel quote generator to speed up my work|
 
 
 <!--
