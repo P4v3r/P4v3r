@@ -20,7 +20,7 @@ Privacy-focused projects
 ### 🔭 Currently working on...
 |VOID-MESSAGE + VOID-SERVER|
 |----------|
-|Privacy-focused messaging app|
+|Messaging app for maximum privacy|
 
 ## 📁 Side Projects
 
