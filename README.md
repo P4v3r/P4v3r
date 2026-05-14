@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I "hate" AI because it almost made me stop programming, but thanks to it I can do things that before would have taken me too much effort and time 😄.
+I "hate" AI because it almost made me stop programming, but thanks to it I can do things that before would have taken me too much effort and time 😄
+
+Privacy enthusiast 🔐
 
 Personal/Portfolio Site: https://p4v3r.github.io (work in progress 👨‍💻)
 
