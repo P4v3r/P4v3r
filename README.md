@@ -22,7 +22,7 @@ Privacy-focused projects
 ### 🔭 Currently working on...
 [VOID-p2p-secure](https://github.com/P4v3r/void-p2p-secure)|VOID-MESSAGE + VOID-SERVER|
 |----------|----------|
-Terminal P2P messenger encrypted, and with zero traces|Messaging app for maximum privacy|
+Terminal P2P messenger, encrypted and with zero traces|Messaging app for maximum privacy|
 
 ## 📁 Side Projects
 
