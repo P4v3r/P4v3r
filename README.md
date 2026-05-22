@@ -20,9 +20,9 @@ Privacy-focused projects
 |Temporary US phone numbers for SMS verification via Telegram. Privacy-focused|
 
 ### 🔭 Currently working on...
-|VOID-MESSAGE + VOID-SERVER|
-|----------|
-|Messaging app for maximum privacy|
+|VOID-MESSAGE + VOID-SERVER[VOID-p2p-secure](https://github.com/P4v3r/void-p2p-secure)|
+|----------|----------|
+|Messaging app for maximum privacy|Terminal P2P messenger encrypted, and with zero traces|
 
 ## 📁 Side Projects
 
