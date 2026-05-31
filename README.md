@@ -19,10 +19,15 @@ Privacy-focused projects
 |----------|
 |Temporary US phone numbers for SMS verification via Telegram. Privacy-focused|
 
+### 🖥️ Cli
+|[VOID-veil-p2p](https://github.com/P4v3r/void-veil-p2p)|
+|----------|
+|Terminal P2P messenger, encrypted and with zero traces|
+
 ### 🔭 Currently working on...
-|[VOID-TTO](https://github.com/P4v3r/void-tto)|[VOID-veil-p2p](https://github.com/P4v3r/void-veil-p2p)|VOID-MESSAGE + VOID-SERVER|
-|----------|----------|----------|
-|Tor Traffic Obfuscator Daemon|Terminal P2P messenger, encrypted and with zero traces|Messaging app for maximum privacy|
+|[VOID-TTO](https://github.com/P4v3r/void-tto)|VOID-MESSAGE + VOID-SERVER|
+|----------|----------|
+|Tor Traffic Obfuscator Daemon|Messaging app for maximum privacy|
 
 ## 📁 Side Projects
 
