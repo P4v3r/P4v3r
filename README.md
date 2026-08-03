@@ -25,9 +25,9 @@ Privacy-focused projects
 |Terminal P2P messenger, encrypted and with zero traces|
 
 ### 🔭 Currently working on...
-|[VOID-TTO](https://github.com/P4v3r/void-tto)|VOID-MESSAGE + VOID-SERVER|
-|----------|----------|
-|Tor Traffic Obfuscator Daemon|Messaging app for maximum privacy|
+|[VOID-TTO](https://github.com/P4v3r/void-tto)|VOID-MESSAGE + VOID-SERVER|VOID_SUITE_APP|
+|----------|----------|----------|
+|Tor Traffic Obfuscator Daemon|Messaging app for maximum privacy|Privacy tools android app|
 
 ## 📁 Side Projects
 
